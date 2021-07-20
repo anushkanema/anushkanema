@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Anushka
+### Hi there👋 I'm Anushka!
 
 #### :pushpin: About Me:
 
-🎓 I a student of Electronics and Commuincation at Usha Mittal Institute of Technology, Mumbai. I like exploring new fields and connect with tech enthusiasts!        
+🎓 I am a student of Electronics and Commuincation at Usha Mittal Institute of Technology, Mumbai. I like exploring new fields and connect with tech enthusiasts!        
 🚀 I am interested in pursuing a career in Data Analytics.          
 🎐  In my free time, I love reading books, watching cricket, and listening to music.
 
