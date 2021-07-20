@@ -2,13 +2,13 @@
 
 #### :pushpin: About Me:
 
-🎓 I am a student of Electronics and Commuincation at Usha Mittal Institute of Technology, Mumbai. I like exploring new fields and connect with tech enthusiasts!        
+🎓 I am a student of Electronics and Communication at Usha Mittal Institute of Technology, Mumbai. I like exploring new fields and staying updated with the global trends!        
 🚀 I am interested in pursuing a career in Data Analytics.          
 🎐  In my free time, I love reading books, watching cricket, and listening to music.
 
 
 #### 🌱 Skills:
-Python | C | Java | SQL| HTML | CSS
+Python | C | Java | SQL | HTML | CSS
 
 #### 🤝 I love collaborating on new tech! Connect with me via:
 [LinkedIn](https://linkedin.com/in/anushka-nema)  |  [Twitter](https://twitter.com/N_Anushkaa?s=08)  | [Email](anushkanema25@gmail.com)
