@@ -8,7 +8,7 @@
 
 
 #### 🌱 Skills:
-Python | C | Java | SQL | HTML | CSS | Figma
+Python | C | Java | SQL | HTML | CSS | Javascript | Figma
 
 #### 🤝 I love collaborating on new tech! Connect with me via:
 [LinkedIn](https://linkedin.com/in/anushka-nema)  |  [Twitter](https://twitter.com/N_Anushkaa?s=08)  | [Email](anushkanema25@gmail.com)
